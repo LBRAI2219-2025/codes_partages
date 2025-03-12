@@ -4,4 +4,3 @@ Vous pouvez ici partagés vos codes d'intérêt commun. Nous les validerons en f
 
 bonjour tout le monde
 
-coucou
